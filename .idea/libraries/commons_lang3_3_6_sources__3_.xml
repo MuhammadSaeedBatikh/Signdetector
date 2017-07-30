@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="commons-lang3-3.6-sources (3)">
+    <CLASSES />
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/commons-lang3-3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
